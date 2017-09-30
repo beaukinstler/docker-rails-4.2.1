@@ -1,7 +1,5 @@
 version: '3'
 services:
-  phantomjs:
-    image: wernight/phantomjs
   db:
     image: postgres
   web:
